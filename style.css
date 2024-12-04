@@ -455,7 +455,8 @@ header {
 
 .nav_logo img {
   width: 40px;
-  background-color: red;
+  /* background-color: red; */
+    background-color: white;
   padding: 5px;
 }
 
