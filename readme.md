@@ -1,8 +1,8 @@
 # News Article 
 A news website that outlines the current world affairs 
 
-# project preview 
+# Click link (below) to Preview 
 https://crashingwharph.github.io/current-news-affairs/
 
-# project info 
+# Project info 
 html and css 
